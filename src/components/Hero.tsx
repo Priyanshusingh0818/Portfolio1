@@ -58,7 +58,7 @@ export default function Hero() {
           <motion.a 
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            href="https://drive.google.com/file/d/1XQfpwBvWSotgg_lumKTK0LjXQ1pNGLOM/view?usp=sharing" 
+            href="https://drive.google.com/file/d/10NrQcwFBtfvIX5ZwX5JH70hcDE0ht7_Q/view?usp=sharing" 
             target="_blank" 
             rel="noreferrer" 
             className="flex items-center px-6 py-3 glass-panel rounded-full font-medium hover:bg-white/10 transition-colors"
